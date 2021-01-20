@@ -1,5 +1,7 @@
 #include <M5EPD.h>
 
+#include <M5EPD.h>
+
 M5EPD_Canvas canvas(&M5.EPD);
 
 void setup()
